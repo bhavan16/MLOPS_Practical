@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mlops2025-DSC
 # 🏦 Loan Risk Categorization - MLOps Project
 
@@ -87,3 +88,6 @@ streamlit run Scripts/app.py
 
 ## 📜 License
 This project is licensed under the MIT License.
+=======
+# MLOPS_Practical
+>>>>>>> origin/main
