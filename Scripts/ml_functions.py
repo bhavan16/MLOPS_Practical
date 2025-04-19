@@ -6,7 +6,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, classification_rep
 from helper_functions import log_info, log_error
 
 # Define paths
-ARTIFACTS_PATH = "D:/MLOPS-2025-DSC/mlops2025-DSC/Artifacts"
+ARTIFACTS_PATH = "C:\\Users\\user\\Desktop\\1BM22AI028\\Practical\\mlops2025-DSC\\Artifacts"
 os.makedirs(ARTIFACTS_PATH, exist_ok=True)
 MODEL_PATH = os.path.join(ARTIFACTS_PATH, "best_classifier.pkl")
 LABEL_ENCODER_PATH = os.path.join(ARTIFACTS_PATH, "label_encoder.pkl")
